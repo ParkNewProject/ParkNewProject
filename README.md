@@ -29,7 +29,7 @@
  <br> 
  <br> 
  <br>
-<div align=center><h1>📚 CHANNEL 📚</h1></div>
+<div align=center><h1>📚 CHANNELS 📚</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/my tistory-181717?style=for-the-badge&logo=tistory&logoColor=white&link=https://parkmj236.tistory.com/">
