@@ -32,11 +32,19 @@
 <div align=center><h1>📚 CHANNELS 📚</h1></div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/my tistory-181717?style=for-the-badge&logo=tistory&logoColor=white&link=https://parkmj236.tistory.com/">
-  <img src="https://img.shields.io/badge/my notion-F7DF1E?style=for-the-badge&logo=notion&logoColor=black&link=https://parkmj236.notion.site/Park-Minji-e4fa8aa44b8c48b582a9082515dbc15e">
+  <a href="https://parkmj236.tistory.com/">
+  <img src="https://img.shields.io/badge/my tistory-181717?style=for-the-badge&logo=tistory&logoColor=white&link=https://parkmj236.tistory.com/"></a>
+  
+  <a href="https://parkmj236.notion.site/Park-Minji-e4fa8aa44b8c48b582a9082515dbc15e">
+  <img src="https://img.shields.io/badge/my notion-F7DF1E?style=for-the-badge&logo=notion&logoColor=black&link=https://parkmj236.notion.site/Park-Minji-e4fa8aa44b8c48b582a9082515dbc15e"></a>
     <br>
   
+  <a href="mailto:parkmj236@gmail.com">
   <img src="https://img.shields.io/badge/gmail to me-DD0031?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:parkmj236@gmail.com">
+  </a>
+  
+  <a href="https://github.com/Park-New-Project/Park-New-Project/issues">
   <img src="https://img.shields.io/badge/issue to me-008888?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Park-New-Project/Park-New-Project/issues">
+  </a>
     <br>
 </div>
